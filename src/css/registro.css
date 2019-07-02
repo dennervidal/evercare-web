@@ -1,0 +1,57 @@
+.image-input {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+}
+
+.paper-full {
+    width: 97vw;
+    margin: 1vw;
+    display: block;
+    overflow: auto;
+    padding: 2vw;
+    background: #fafafa !important;
+}
+
+.margin-top-upload {
+    margin-top: 1.7em;
+}
+
+.button-submit {
+    margin-top: 10px;
+    float: right;
+    clear: left;
+    display: inline-block;
+}
+
+.input-field {
+    clear: left;
+    float: left;
+    width: 100% !important;
+    display: inline-block;
+}
+
+.login-box {
+    position: absolute;
+    width: 28vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0 1em 1em 1em;
+    background: #fafafa !important;
+}
+
+.reset-box {
+    position: absolute;
+    width: 28vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0 1em 1em 1em;
+    background: #fafafa !important;
+}
+
